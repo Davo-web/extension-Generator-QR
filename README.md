@@ -1,1 +1,1 @@
-# Generator-QR
+# extension-Generator-QR
