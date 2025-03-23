@@ -1,0 +1,15 @@
+{
+    "name": "QR code generator",
+    "description": "Web version QR code generator",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+         "default_popup": "ext.html",
+         "default_icon": "qr-code (3).png"
+    },
+    "icons": {
+        "16": "qr-code.png",
+        "32": "qr-code (1).png",
+        "128": "qr-code (2).png"
+    }
+}
